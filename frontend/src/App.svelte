@@ -72,6 +72,7 @@
   button:hover {
     background-color: #1c3554;
     color: #abd9ce;
+    cursor: pointer;
   }
 
   footer {
